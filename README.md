@@ -1,1 +1,1 @@
-# Noisy_Deep_Q_Learn_Network
+# Noisy_Deep_Q_Learning_Network
