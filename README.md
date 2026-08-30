@@ -1,1 +1,1 @@
-# Noisy_Deep_Q_Learning_Network
+# Noisy_Deep_Q_Learning_Network_vs_Vanilla_Deep_Q_Learning_Network_Algo
